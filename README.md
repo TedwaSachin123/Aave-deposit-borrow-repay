@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
 <a href="https://github.com/TedwaSachin123/DeFi-Quant-aave-" target="_blank">
-<img src="./img/screenshot1.jpg" width="225" alt="Python + Aave">
+<img src="./img/screenshot1.jpg" width="800" alt="Python + Aave">
 <br/>
-<img src="./img/screenshot2.jpg" width="225" alt="Python + Aave">
+<img src="./img/screenshot2.jpg" width="800" alt="Python + Aave">
 </a>
 </p>
 <br/>
